@@ -1,0 +1,29 @@
+{
+  "lieux_depart": {
+    "addresse": "Les Terrasses du Port – 9 Quai du Lazaret, 13002 Marseille",
+    "titre": "Rooftop Marseille"
+  },
+  "users": [
+          {
+            "id": 0,
+            "sam": true
+          },{
+            "id": 1,
+            "sam": false
+          },{
+            "id": 2,
+            "sam": false
+          },{
+            "id":3,
+            "sam":false
+          },{
+            "id":4,
+            "sam":false
+          } ],
+  "lieux_retour":{
+    "addresse": "34b Rue du Bon Pasteur"
+  },
+  "heure_depart": "12:20",
+  "heure_retour": "07:30",
+  "prix_par_persone": 10
+}
